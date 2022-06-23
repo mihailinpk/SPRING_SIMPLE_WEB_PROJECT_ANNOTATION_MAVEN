@@ -10,7 +10,7 @@
     <title>Main page</title>
 </head>
 <body>
-    <h3>Fuck them all !!!</h3>
-    <h2>Fedya, you suck !</h2>
+    <h2>Test title</h2>
+    <h3>Test text</h3>
 </body>
 </html>
