@@ -1,1 +1,1 @@
-# SPRING_SIMPLE_WEB_PROJECT_ANNOTATION_MAVEN
+The simplest Spring MVC project that can be
